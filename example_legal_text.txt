@@ -1,0 +1,52 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+----------------------------------------
+
+JOHN DOE, 
+                    Petitioner,
+        v.
+JANE SMITH, et al.,
+                    Respondents.
+----------------------------------------
+
+OPINION OF THE COURT
+
+Justice Johnson delivered the opinion of the Court.
+
+This case requires us to consider whether the Fourth Amendment permits a law enforcement officer to conduct a warrantless search of an automobile based solely on an anonymous tip. We granted certiorari to resolve a conflict among the Courts of Appeals on this question.
+
+I
+
+On the morning of January 15, 2020, Officer Williams of the Metro Police Department received an anonymous call reporting that an individual matching petitioner's description was engaged in suspicious activity near a public park. In Terry v. Ohio, 392 U.S. 1 (1968), this Court established that a police officer may, consistent with the Fourth Amendment, conduct a brief investigatory stop when the officer has a reasonable, articulable suspicion that criminal activity is afoot.
+
+When Officer Williams arrived at the location, he observed petitioner, John Doe, sitting in a parked vehicle. Relying on Carroll v. United States, 267 U.S. 132 (1925), and its progeny, including United States v. Ross, 456 U.S. 798 (1982), Officer Williams approached the vehicle and, without obtaining consent or a warrant, conducted a search of the automobile. During this search, Officer Williams discovered contraband in the glove compartment.
+
+Petitioner was subsequently charged with possession of a controlled substance in violation of 21 U.S.C. § 841(a)(1). Prior to trial, petitioner moved to suppress the evidence obtained during the search, arguing that it violated his Fourth Amendment rights as articulated in Katz v. United States, 389 U.S. 347 (1967), and more recently in Carpenter v. United States, 585 U.S. ___ (2018). The District Court denied the motion, citing United States v. Leon, 468 U.S. 897 (1984), and the "automobile exception" to the warrant requirement established in California v. Acevedo, 500 U.S. 565 (1991).
+
+The Court of Appeals affirmed, holding that the search was constitutional under the principles established in Arizona v. Gant, 556 U.S. 332 (2009), and Kansas v. Glover, 589 U.S. ___ (2020).
+
+II
+
+It is well established that searches conducted outside the judicial process, without prior approval by judge or magistrate, are per se unreasonable under the Fourth Amendment—subject only to a few specifically established and well-delineated exceptions. Katz v. United States, 389 U.S. 347, 357 (1967); see also Mincey v. Arizona, 437 U.S. 385, 390 (1978); Payton v. New York, 445 U.S. 573, 586 (1980).
+
+One such exception is the so-called "automobile exception," first recognized in Carroll v. United States, 267 U.S. 132 (1925), wherein this Court held that a warrantless search of an automobile based upon probable cause to believe that the vehicle contained evidence of crime did not contravene the Fourth Amendment's warrant requirement. See also California v. Carney, 471 U.S. 386, 390-394 (1985); Maryland v. Dyson, 527 U.S. 465, 466-467 (1999) (per curiam).
+
+The question we must address is whether an anonymous tip, without more, establishes the probable cause necessary to justify a warrantless search under the automobile exception. In Illinois v. Gates, 462 U.S. 213 (1983), we adopted a "totality of the circumstances" approach to determining whether an informant's tip establishes probable cause. We further clarified in Alabama v. White, 496 U.S. 325 (1990), and Florida v. J.L., 529 U.S. 266 (2000), that anonymous tips alone seldom demonstrate an informant's basis of knowledge or veracity.
+
+Petitioner contends that Officer Williams lacked the probable cause required under the Fourth Amendment, as interpreted in these precedents. The Government, citing Navarette v. California, 572 U.S. 393 (2014), argues that the totality of the circumstances supported a finding of probable cause. We agree with petitioner.
+
+III
+
+[Detailed legal analysis omitted for brevity]
+
+In light of the foregoing analysis, we hold that an anonymous tip, absent additional indicia of reliability, does not establish probable cause for a warrantless search under the automobile exception to the Fourth Amendment's warrant requirement.
+
+Accordingly, we reverse the judgment of the Court of Appeals and remand the case for further proceedings not inconsistent with this opinion.
+
+It is so ordered.
+
+Justice Smith filed a concurring opinion.
+Justice Brown filed a dissenting opinion, in which Justice Garcia joined.
+
+[Footnote 1] As we noted in United States v. Cortez, 449 U.S. 411, 417-418 (1981), the totality of the circumstances includes both "objective observations" and the "series of inferences" that "a trained officer" may draw.
+
+[Footnote 2] See, e.g., Ornelas v. United States, 517 U.S. 690, 699 (1996); Illinois v. Wardlow, 528 U.S. 119, 123-124 (2000); Rodriguez v. United States, 575 U.S. 348, 354 (2015). 

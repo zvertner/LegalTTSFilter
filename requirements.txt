@@ -1,0 +1,11 @@
+# Core dependencies
+eyecite>=2.0.0
+spacy>=3.5.0
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
+striprtf>=0.0.12
+
+# Testing dependencies
+pytest>=7.0.0
+
+# Optional dependencies for enhanced document handling
+# pymupdf4llm>=0.1.0 
