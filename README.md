@@ -19,7 +19,7 @@ This project provides a Python application designed to process legal documents, 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/zzvertigo/LegalTTSFilter.git
+    git clone https://github.com/your-username/LegalTTSFilter.git
     cd LegalTTSFilter
     ```
 
@@ -98,4 +98,4 @@ Please ensure your code adheres to PEP 8 guidelines and includes relevant tests.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. *(Note: You'll need to add a LICENSE file with the actual MIT License text).* 

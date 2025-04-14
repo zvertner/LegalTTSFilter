@@ -54,10 +54,4 @@ venv.bak/
 
 # OS specific files
 .DS_Store
-Thumbs.db
-
-# Test output files
-TestCase_*.txt
-test_*.txt
-*_filtered.txt
-*_processed.txt 
+Thumbs.db 
