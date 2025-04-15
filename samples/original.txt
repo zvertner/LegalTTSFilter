@@ -1,0 +1,8 @@
+
+    In Smith v. Jones, 123 U.S. 456 (2000), the Supreme Court held that 
+    evidence obtained in violation of the Fourth Amendment is subject to the 
+    exclusionary rule. See also United States v. Brown, 456 F.3d 789 (9th Cir. 2010).
+    As the Court explained in Maryland v. King, 569 U.S. 435, 448 (2013), 
+    "the ultimate measure of the constitutionality of a governmental search is reasonableness."
+    Visit https://scholar.google.com/scholar_case?case=12345 for more information.
+    

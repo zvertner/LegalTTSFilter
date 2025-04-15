@@ -3,7 +3,7 @@ Module for filtering legal citations from text.
 
 This module uses the eyecite library to identify and remove legal case citations,
 with a focus on removing case names for better text-to-speech compatibility.
-"""
+"""                                     
 from typing import Dict, List, Optional, Tuple, Any
 import re
 
